@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameController : MonoBehaviour
+public class EnemyController : MonoBehaviour
 {
     public float startSpeed = 1.0F;
 
